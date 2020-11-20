@@ -1,1 +1,6 @@
-tensorflow 
+tensorflow
+tensorflow-io
+numpy
+pandas
+matplotlib
+seaborn
